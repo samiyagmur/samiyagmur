@@ -5,7 +5,7 @@
 
 ## ![Alt Text](https://media.giphy.com/media/ToMjGpzot8uTh5nUwnu/giphy.gif)
 #### I've some programming learning document.
-#### I hope This document help your needed.
+#### I hope These document help your needed.
 
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
