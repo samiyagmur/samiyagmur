@@ -2,7 +2,21 @@
 #### Jr.Game Developer
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&theme=dark&width=100)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&theme=dark&langs_count=3&width=80)](https://github.com/samiyagmur/github-readme-stats)
+<a href="https://github.com/samiyagmur/samiyagmur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/samiyagmur/samiyagmur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/samiyagmur/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/samiyagmur/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 Contact📫:
