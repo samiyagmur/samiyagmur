@@ -2,7 +2,7 @@
 #### Jr.Game Developer
 
 
-<img align="center" src="<dark>/?username=<samiyagmur>&theme=<dark>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur)](https://github.com/samiyagmur/github-readme-stats)
 
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
