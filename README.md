@@ -11,12 +11,13 @@
 </a>
 
 
+<a href="mailto:Samiyagmur@gmail.com" img src="https://user-images.githubusercontent.com/77567437/205038300-00e8f092-67c6-40f4-ac5c-ac8114a6faee.png)"> </a>
 
 Contact📫:
 
-![gmail](https://user-images.githubusercontent.com/77567437/205038300-00e8f092-67c6-40f4-ac5c-ac8114a6faee.png)
+![gmail](https://user-images.githubusercontent.com/77567437/205038300-00e8f092-67c6-40f4-ac5c-ac8114a6faee.png)[1]
 
-<a href="mailto:Samiyagmur@gmail.com" img src="https://user-images.githubusercontent.com/77567437/205038300-00e8f092-67c6-40f4-ac5c-ac8114a6faee.png)"> </a>
+[1]: mailto:Samiyagmur@gmail.com
 
 [![Linkedin](https://user-images.githubusercontent.com/77567437/204914179-e4bdb56f-6a88-4db3-88c2-c9df092f2184.png)][2]
 
