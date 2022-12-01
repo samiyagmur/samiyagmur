@@ -2,7 +2,7 @@
 #### Jr.Game Developer
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<samiyagmur>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<Stats>/?username=<samiyagmur>&theme=<dark>" />
 
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
