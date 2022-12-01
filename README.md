@@ -14,8 +14,6 @@
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
 
-<a href="mailto:Samiyagmur@gmail.com"> <img src="images/navigation_icon/email.png"> </a>
-
 [![Linkedin](https://user-images.githubusercontent.com/77567437/204932209-27ef923d-1879-4bf7-b29a-0e25c1a93384.png)][1]
 
 [1]: <a href="mailto:Samiyagmur@gmail.com"></a>
