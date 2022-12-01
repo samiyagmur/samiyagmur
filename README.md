@@ -12,7 +12,7 @@
 
 
 
-[mailto](mailto:Samiyagmur@gmail.com)
+[[mailto](https://user-images.githubusercontent.com/77567437/205038300-00e8f092-67c6-40f4-ac5c-ac8114a6faee.png)](mailto:Samiyagmur@gmail.com)
 
 Contact📫:
 
