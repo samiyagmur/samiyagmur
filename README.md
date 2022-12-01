@@ -1,5 +1,15 @@
 ### 👋Hi,I'm Ömer Sami :)
 #### Jr.Game Developer
+
+<a href="https://github.com/samiyagmur/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samiyagmur&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/samiyagmur/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samiyagmur&repo=convoychat" />
+</a>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&theme=dark&langs_count=3)](https://github.com/samiyagmur/github-readme-stats)
 
