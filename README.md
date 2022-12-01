@@ -32,7 +32,7 @@ You can view here.I Hope you have a good time and like my project.
 * Command Pattern
 * Faced Patttern
 
-![image](https://user-images.githubusercontent.com/77567437/205055951-fbda7a14-03eb-469b-908c-8511c2b0236a.png)
+![image](https://user-images.githubusercontent.com/77567437/205055951-fbda7a14-03eb-469b-908c-8511c2b0236a.png) alt="unity" width="30" height="30"
 #### Tools
 * DoTween
 * Odin Inspector
