@@ -18,7 +18,7 @@ E-Mail: Samiyagmur@gmail.com
 
 [![Linkedin](https://user-images.githubusercontent.com/77567437/204932209-27ef923d-1879-4bf7-b29a-0e25c1a93384.png)][1]
 
-[1]: https://www.linkedin.com/in/%C3%B6mer-sami-ya%C4%9Fmur-6b64b018b/
+[1]: <a href="mailto:Samiyagmur@gmail.com"></a>
 
 
 [![Linkedin](https://user-images.githubusercontent.com/77567437/204914179-e4bdb56f-6a88-4db3-88c2-c9df092f2184.png)][2]
