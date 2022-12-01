@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="mailto:myemailaddress@gmail.com"> <img src="images/navigation_icon/email.png"> </a>
+<a href="mailto:myemailaddress@gmail.com"> <img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"> </a>
 
 
 Contact📫:
