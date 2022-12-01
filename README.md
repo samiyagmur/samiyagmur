@@ -1,7 +1,8 @@
 ### 👋Hi,I'm Ömer Sami :)
 #### Jr.Game Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&theme=dark&langs_count=3)](https://github.com/samiyagmur/github-readme-stats)
+
 
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
