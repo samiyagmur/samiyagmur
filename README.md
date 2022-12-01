@@ -24,7 +24,7 @@ You can view here.I Hope you have a good time and like my project.
 * SOLİD
 * DRY,Kiss
 * Clean Code,
-#### Desing Pattern <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+#### Desing Pattern <img vertical-align="bottom"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 * Singelton
 * Observer 
 * State-Machine
