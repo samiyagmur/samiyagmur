@@ -14,8 +14,7 @@
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](samiyagmur92@gmail.com)  
+<a href="mailto:myemailaddress@gmail.com"> <img src="images/navigation_icon/email.png"> </a>
 
 [![Linkedin](https://user-images.githubusercontent.com/77567437/204932209-27ef923d-1879-4bf7-b29a-0e25c1a93384.png)][1]
 
