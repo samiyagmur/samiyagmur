@@ -15,8 +15,6 @@ You can view here.I Hope you have a good time and like my project.
 <a href="https://github.com/samiyagmur/samiyagmur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-![icons8-unity-48](https://user-images.githubusercontent.com/77567437/205054750-74fe3985-a4e3-407f-892d-5fe284195b45.png)
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 #### Code Architecture
@@ -32,7 +30,7 @@ You can view here.I Hope you have a good time and like my project.
 * Command Pattern
 * Faced Patttern
 
-<img src="https://img.icons8.com/wired/512/unity.png" alt="unity" width="30" height="30"/>
+<img src="[https://img.icons8.com/wired/512/unity.png](https://icons8.com/icon/55O6KKA9CyIA/unity)" alt="unity" width="30" height="30"/>
 #### Tools
 * DoTween
 * Odin Inspector
