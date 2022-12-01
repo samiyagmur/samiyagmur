@@ -2,7 +2,7 @@
 #### Jr.Game Developer
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<dark>/?username=<samiyagmur>&theme=<dark>" />
+<img align="center" src="<dark>/?username=<samiyagmur>&theme=<dark>" />
 
 Contact📫:
 E-Mail: Samiyagmur@gmail.com
@@ -22,14 +22,3 @@ E-Mail: Samiyagmur@gmail.com
 
 
 
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<script>
-    GitHubCalendar(".calendar", "your-username");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "your-username", { responsive: true });
-</script>
-         
