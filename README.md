@@ -1,4 +1,5 @@
 ### 👋Hi,I'm Ömer Sami :)
+###  Welcome to my projects
 #### Jr.Game Developer
 
 
@@ -25,4 +26,4 @@ Contact📫:
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiyagmur)  
+
