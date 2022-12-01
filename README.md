@@ -16,7 +16,8 @@ You can view here.I Hope you have a good time and like my project.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-### C#  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/>
+### C#  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 #### Code Architecture
 * OOP
 * SOLİD
