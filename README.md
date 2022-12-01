@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-[Contact Us](Samiyagmur@gmail.com)
+[mailto](mailto:Samiyagmur@gmail.com)
 
 Contact📫:
 
@@ -26,26 +26,4 @@ Contact📫:
 <img src="https://media.giphy.com/media/Rs2iAnfEImXIs/giphy.gif" alt="Alt Sol Text" style="zoom:150%;" />
 
 
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "samiyagmur");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "samiyagmur", { responsive: true });
-</script>
 
