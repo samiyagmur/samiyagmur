@@ -2,7 +2,7 @@
 #### Jr.Game Developer
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&theme=dark&width=100)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&theme=dark&langs_count=3&width=100)](https://github.com/samiyagmur/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiyagmur&show_icons=true&theme=dark&width=100)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyagmur&theme=dark&langs_count=3&width=80)](https://github.com/samiyagmur/github-readme-stats)
 
 
 Contact📫:
