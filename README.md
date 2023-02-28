@@ -23,16 +23,15 @@ You can view here.I Hope you have a good time and like my project.
 * OOP
 * SOLİD
 * DRY,Kiss
-* Clean Code,
-#### <img vertical-align="bottom"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30"/ height="30"/> Desing Pattern 
+* Clean Code
+
+#### <img vertical-align="bottom"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Desing Pattern 
 * Singelton
 * Observer 
 * State-Machine
 * Object Pooling
 * Command Pattern
 * Faced Patttern
-
-
 
 #### <img vertical-align="bottom"  src="https://user-images.githubusercontent.com/77567437/205059436-84984621-2498-4a6a-a5a4-074a9be3d03a.png" alt="csharp" width="40" height="40"/> Tools 
 * DoTween
